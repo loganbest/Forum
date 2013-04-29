@@ -1,4 +1,4 @@
-# Forum v4.0.0 #
+# Forum v4.0.1 #
 
 A fully robust and powerful CakePHP forum plugin. Integrates with an external user system, support for topic and forum subscriptions, and many more features listed below.
 
@@ -7,7 +7,6 @@ A fully robust and powerful CakePHP forum plugin. Integrates with an external us
 * PHP 5.3.0
 	* Multibyte
 * CakePHP 2
-	* Admin Plugin v1.0.0 - https://github.com/milesj/Admin
 	* Utility Plugin v1.4.0 - https://github.com/milesj/Utility
 * Composer
 
@@ -47,7 +46,7 @@ Moderation
 * Ability to edit and manage users content
 
 Administration
-* Full admin panel using CakePHP Admin plugin
+* Full admin panel using CakePHP Admin routing 
 * Utilizes ACL for permissions
 * Can add, edit, order, delete all data
 * Manage all reported content
