@@ -1,5 +1,5 @@
 {
-	"name": "lbest/forum",
+	"name": "loganbest/forum",
 	"type": "cakephp-plugin",
 	"description": "A CakePHP forum plugin.",
 	"keywords": ["cakephp", "forum", "plugin"],
